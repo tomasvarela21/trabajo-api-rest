@@ -1,0 +1,16 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "Habitos Atomicos",
+            "autor": "Stephen King",
+            "Año": 1986
+        },
+        {
+            "id": 2,
+            "name": "Padre rico, padre pobre",
+            "autor": "Robert Kiyosaki",
+            "Año": 1986
+        }
+    ]
+}
